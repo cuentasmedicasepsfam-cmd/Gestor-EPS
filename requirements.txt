@@ -1,0 +1,6 @@
+streamlit
+duckdb
+pandas
+os
+altair
+time
