@@ -2,4 +2,3 @@ streamlit
 duckdb
 pandas
 altair
-time
